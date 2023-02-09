@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_5Article</name>
+   <tag></tag>
+   <elementGuidId>86c21daf-c858-4d62-885e-a11d5890eb9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vertical-tabpanel-1']/div/div/div[9]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f952fb36-6970-4d96-81a1-12f389a7c1d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiStepLabel-root MuiStepLabel-vertical Mui-disabled css-r12ba4</value>
+      <webElementGuid>aa11e207-412e-4dad-9663-351bd84dd2ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5Article</value>
+      <webElementGuid>08b1c5af-686b-426f-ad54-2b369a9ab8a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vertical-tabpanel-1&quot;)/div[1]/div[@class=&quot;MuiStepper-root MuiStepper-vertical css-j7qwjs&quot;]/div[@class=&quot;MuiStep-root MuiStep-vertical css-0&quot;]/span[@class=&quot;MuiStepLabel-root MuiStepLabel-vertical Mui-disabled css-r12ba4&quot;]</value>
+      <webElementGuid>426feec0-6eb1-4dc1-a544-c6c94d48823d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vertical-tabpanel-1']/div/div/div[9]/span</value>
+      <webElementGuid>a60b03ec-c42c-46a0-b25d-f24be32daf57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Headline Selection'])[1]/following::span[2]</value>
+      <webElementGuid>13f31921-7cf7-41f1-94ad-4a813da6e678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Introduction Selection'])[1]/following::span[7]</value>
+      <webElementGuid>6298d8e6-06a5-4834-9fe9-9936381aea88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::span[4]</value>
+      <webElementGuid>8f50d425-2a2f-4283-ad5c-88b61b42ced1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/span</value>
+      <webElementGuid>84bec91c-4522-4714-91ae-b5e174a28cd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '5Article' or . = '5Article')]</value>
+      <webElementGuid>2a0d2746-faad-4886-8ee6-a6308b119df1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

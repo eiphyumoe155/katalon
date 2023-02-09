@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_4Headline Selection</name>
+   <tag></tag>
+   <elementGuidId>6e379c89-ac62-4f29-9e53-ea1cfb790c17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vertical-tabpanel-1']/div/div/div[7]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f8d45c8c-4c25-43d9-a5bd-b592e8bfd13a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiStepLabel-root MuiStepLabel-vertical Mui-disabled css-r12ba4</value>
+      <webElementGuid>f6437eb9-804c-4647-a3df-1b00a364b742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4Headline Selection</value>
+      <webElementGuid>33d16975-6e35-478a-be62-f74904bdfd27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vertical-tabpanel-1&quot;)/div[1]/div[@class=&quot;MuiStepper-root MuiStepper-vertical css-j7qwjs&quot;]/div[@class=&quot;MuiStep-root MuiStep-vertical css-0&quot;]/span[@class=&quot;MuiStepLabel-root MuiStepLabel-vertical Mui-disabled css-r12ba4&quot;]</value>
+      <webElementGuid>12f989d4-5ec5-4f2f-b3a1-a688c3c70bce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vertical-tabpanel-1']/div/div/div[7]/span</value>
+      <webElementGuid>1107f2d4-28d5-41ac-946d-abb95187fb1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Introduction Selection'])[1]/following::span[2]</value>
+      <webElementGuid>3d06cdcc-7112-4fad-ac69-0802ed1c2b4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title Selection'])[1]/following::span[7]</value>
+      <webElementGuid>5787b97c-e855-4b4b-82eb-81ed9e732d03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Article'])[1]/preceding::span[6]</value>
+      <webElementGuid>bc72d469-bb4f-456f-b91b-435346b883b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/span</value>
+      <webElementGuid>1acb8b60-e5eb-4717-b880-53fe17ca8298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '4Headline Selection' or . = '4Headline Selection')]</value>
+      <webElementGuid>59cdf4b4-af06-4e23-af4d-ccd97e8dbabb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

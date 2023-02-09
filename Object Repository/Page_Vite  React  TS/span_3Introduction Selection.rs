@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_3Introduction Selection</name>
+   <tag></tag>
+   <elementGuidId>e5c4c7a1-a272-41f6-9709-841b686a64a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vertical-tabpanel-1']/div/div/div[5]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e237b74f-590b-434c-bdf9-4fa605c6e6b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiStepLabel-root MuiStepLabel-vertical Mui-disabled css-r12ba4</value>
+      <webElementGuid>0b8527ea-46c9-48fa-a6c9-57fc08f7789a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3Introduction Selection</value>
+      <webElementGuid>0e9e8a18-4b6b-41c5-bf2f-553f850405e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vertical-tabpanel-1&quot;)/div[1]/div[@class=&quot;MuiStepper-root MuiStepper-vertical css-j7qwjs&quot;]/div[@class=&quot;MuiStep-root MuiStep-vertical css-0&quot;]/span[@class=&quot;MuiStepLabel-root MuiStepLabel-vertical Mui-disabled css-r12ba4&quot;]</value>
+      <webElementGuid>bc0ba8ba-ee60-4284-b7a9-16566645f506</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vertical-tabpanel-1']/div/div/div[5]/span</value>
+      <webElementGuid>e84b539b-d824-4474-a803-19e8930c2746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title Selection'])[1]/following::span[2]</value>
+      <webElementGuid>ad0112a2-9a8c-47e7-82b9-ef0c4c599d1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate Title'])[1]/following::span[8]</value>
+      <webElementGuid>bf2b379c-c454-4877-8d4b-3e118da65171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Headline Selection'])[1]/preceding::span[6]</value>
+      <webElementGuid>4721f0cf-5eaa-4be3-a6f3-33b30fa1eeaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/span</value>
+      <webElementGuid>3ad12c09-59b4-4b8c-b2e6-7e2b6ae3e7fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '3Introduction Selection' or . = '3Introduction Selection')]</value>
+      <webElementGuid>7e4321c9-b08a-4bba-b486-8fc134103ee2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_AI Article Writer_MuiSvgIcon-root MuiSv_b4bf44</name>
+   <tag></tag>
+   <elementGuidId>08827247-c215-4089-9225-9ccccb61106b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiTab-iconWrapper.css-vubbuv</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='AI Article Writer'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>7ccd765d-d572-4d7b-bf6a-3801dd51c453</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiTab-iconWrapper css-vubbuv</value>
+      <webElementGuid>e417cdf3-8da1-4d06-adb2-b78dc140edd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f558168f-22b3-4d8f-8021-e10321831838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>fb8371b8-c54a-420b-afff-475ae58976c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>0aa34ffb-b29f-4fa2-b362-9afa17ab8db1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>ManageSearchIcon</value>
+      <webElementGuid>90d390cc-52c0-4fda-9b17-837125f9cc32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;step-wrapper&quot;]/div[@class=&quot;MuiTabs-root css-cve48t&quot;]/div[@class=&quot;MuiTabs-scroller MuiTabs-fixed css-1anid1y&quot;]/div[@class=&quot;MuiTabs-flexContainer css-k008qs&quot;]/button[@class=&quot;MuiButtonBase-root MuiTab-root MuiTab-labelIcon MuiTab-textColorPrimary MuiTab-fullWidth css-1jzcopl&quot;]/svg[@class=&quot;MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiTab-iconWrapper css-vubbuv&quot;]</value>
+      <webElementGuid>9988c040-1cad-4274-8ea1-03783d05ca0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AI Article Writer'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>63d21784-4e67-4fbd-a331-4645f9b8ad54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Canditates'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>6f5e8637-7f1c-435b-92fa-f6c4c5778a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GSC'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>8bee52cd-bd32-49b1-9ec5-ccc195e4e72f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

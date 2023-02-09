@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>keyword_validation</name>
+   <tag>pid validate</tag>
+   <comment></comment>
+   <testCaseGuid>e7f07ac3-b0ed-4368-931c-8511c3eac2b9</testCaseGuid>
+</TestCaseEntity>
